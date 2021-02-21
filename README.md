@@ -1,0 +1,1 @@
+# apj-find-maximum-consecutive-increasingly
